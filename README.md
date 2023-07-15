@@ -73,9 +73,12 @@ To get started with the application, follow these steps:
 ### .envs
 
 - frontend:-
-    REACT_APP_BACKEND=http://localhost:3001/api/
-- backend:-
-     MONGO_URI=< Your mongo uri >/pdf
-     SECRET= <you secret name>
-     ORIGIN=http://localhost:3000  
+   1.  REACT_APP_BACKEND=http://localhost:3001/api/
+   
+- backend:
+  1. MONGO_URI=< Your mongo uri >/pdf
+  2. SECRET= <you secret name>
+  3. ORIGIN=http://localhost:3000 
+     
+      
 
