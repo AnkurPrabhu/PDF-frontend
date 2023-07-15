@@ -74,7 +74,7 @@ To get started with the application, follow these steps:
 
 - frontend:-
     REACT_APP_BACKEND=http://localhost:3001/api/
--backend:-
+- backend:-
      MONGO_URI=< Your mongo uri >/pdf
      SECRET= <you secret name>
      ORIGIN=http://localhost:3000  
